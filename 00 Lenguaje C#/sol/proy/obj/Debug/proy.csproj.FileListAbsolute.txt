@@ -1,0 +1,10 @@
+H:\Escritorio\sol\proy\bin\Debug\proy.exe.config
+H:\Escritorio\sol\proy\bin\Debug\proy.exe
+H:\Escritorio\sol\proy\bin\Debug\proy.pdb
+H:\Escritorio\sol\proy\obj\Debug\proy.csprojAssemblyReference.cache
+H:\Escritorio\sol\proy\obj\Debug\proy.Properties.Resources.resources
+H:\Escritorio\sol\proy\obj\Debug\proy.csproj.GenerateResource.cache
+H:\Escritorio\sol\proy\obj\Debug\proy.csproj.CoreCompileInputs.cache
+H:\Escritorio\sol\proy\obj\Debug\proy.exe
+H:\Escritorio\sol\proy\obj\Debug\proy.pdb
+H:\Escritorio\sol\proy\obj\Debug\proy.Form1.resources

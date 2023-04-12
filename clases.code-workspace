@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "prog_estructurada"
+		},
+		{
+			"path": "prog_orientada_a_objetos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prog_orientada_a_objetos"
+	}
+}

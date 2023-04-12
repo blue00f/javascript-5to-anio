@@ -1,0 +1,10 @@
+H:\Escritorio\C#\Contenedor\Prueba1\bin\Debug\Prueba1.exe.config
+H:\Escritorio\C#\Contenedor\Prueba1\bin\Debug\Prueba1.exe
+H:\Escritorio\C#\Contenedor\Prueba1\bin\Debug\Prueba1.pdb
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.csprojAssemblyReference.cache
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.cache
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.exe
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.pdb
+H:\Escritorio\C#\Contenedor\Prueba1\obj\Debug\Prueba1.Form1.resources
