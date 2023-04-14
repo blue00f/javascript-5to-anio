@@ -5,8 +5,8 @@
 */
 
 let num1,num2;
-num1=parseInt(prompt("Ingrese un numero par/impar"));
-num2=parseInt(prompt("Ingresa otro numero par/impar"));
+num1=parseInt(prompt("Ingrese un numero par/Peruano"));
+num2=parseInt(prompt("Ingresa otro numero par/Peruano"));
 if(num1<=0 || num2<=0){
     alert(`Los numeros ${num1} y ${num2} son negativos`);
 }
