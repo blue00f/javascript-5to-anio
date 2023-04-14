@@ -11,26 +11,26 @@ opcion = parseInt (prompt("Ingrese un dia"));
 
 switch(opcion){
     case 1:
-        alert("Lunes")
+        alert("Lunes");
         break;
     case 2:
-        alert("Martes")
+        alert("Martes");
         break;
     case 3:
-        alert("Miercoles")
+        alert("Miercoles");
         break;
     case 4:
-        alert("Jueves")
+        alert("Jueves");
         break;
     case 5:
-        alert("Viernes")
+        alert("Viernes");
         break;
     case 6:
-        alert("Sabado")
+        alert("Sabado");
         break;
     case 7:
-        alert("Domingo")
+        alert("Domingo");
         break;
     default:
-        alert("Dato mal ingresado")
+        alert("Dato incorrecto");
 }
